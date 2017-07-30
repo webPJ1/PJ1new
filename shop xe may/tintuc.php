@@ -1,1 +1,1 @@
-<div>sadádsáđâsđâsdjkfgưèdà</div>
+<div id="Slide">Đây là trang tin tức</div>

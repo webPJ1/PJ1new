@@ -2,12 +2,12 @@
         
         <div id="BHT_menu">
         	
-            <div id="home_menu"><a href="index.php"></a></div>
+            <div id="home_menu"><a href="trangchu.html"></a></div>
                 
             <ul>
-                <li><a href="index.php">Trang chủ</a></li>
+                <li><a href="index.php?page=trangchu" class="current">Trang chủ</a></li>
                 <li><a href="gioithieu.html">Giới thiệu</a></li>
-                <li><a href="index.php?page=tintuc" class="=current">Tin tức</a></li>
+                <li><a href="index.php?page=tintuc">Tin tức</a></li>
                 <li><a href="sanpham.html">Sản phẩm</a></li>
                 <li><a href="lienhe.html">Liên Hệ</a></li>
                 <li id="A123" >
