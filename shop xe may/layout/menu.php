@@ -5,11 +5,11 @@
             <div id="home_menu"><a href="trangchu.html"></a></div>
                 
             <ul>
-                <li><a href="index.php?page=trangchu" class="current">Trang chủ</a></li>
-                <li><a href="gioithieu.html">Giới thiệu</a></li>
-                <li><a href="index.php?page=tintuc">Tin tức</a></li>
-                <li><a href="sanpham.html">Sản phẩm</a></li>
-                <li><a href="lienhe.html">Liên Hệ</a></li>
+                <li><a href="index.php">Trang chủ</a></li>
+                <li><a href="gioithieu.php">Giới thiệu</a></li>
+                <li><a href="tintuc.php">Tin tức</a></li>
+                <li><a href="sanpham.php">Sản phẩm</a></li>
+                <li><a href="lienhe.php">Liên Hệ</a></li>
                 <li id="A123" >
             <div>
                 <img src="images/510n1ix6FHL.png" style="height:20px" />
