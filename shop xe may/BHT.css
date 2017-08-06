@@ -126,7 +126,8 @@ em { color: #bf4300; }
 #BHT_header_wrapper {
 	width: 100%;
 	background: #FFF;
-	height: 200px;
+
+
 }
 
 #BHT_header {
@@ -139,8 +140,8 @@ em { color: #bf4300; }
 
 #BHT_header  #site_title {
 	float: left;
-	width:100px;
-	height:80px;
+	width:200px;
+	height:100px;
 	padding: 35px 0 0 40px;
 	
 }
@@ -185,24 +186,8 @@ em { color: #bf4300; }
 
 #BHT_menu {
 	clear: both;
-    margin-left:350px;
-
+    background:#000000;
 }
-
-#BHT_menu #home_menu a {
-	float: left;
-	display: block;
-	width: 50px;
-    height: 50px;
-	background: url(images/home.png) ;
-    background: cover;
-
-
-}
-
-
-
-
 
 #BHT_menu ul {
 	margin: 0;
@@ -226,7 +211,7 @@ em { color: #bf4300; }
 	font-size: 14px;
 	text-align: center;
 	text-decoration: none;
-	color: #000;	
+	color: #ffffff;
 	font-weight: bold;
 	outline: none;
 	border: none;
@@ -239,7 +224,7 @@ em { color: #bf4300; }
 /* end of menu */
 
 #banner {
-	margin-top::500px;
+	margin-top:500px;
 	}
 
 /* main */
@@ -371,7 +356,7 @@ em { color: #bf4300; }
 	width: 1536px;
 	border-top: 1px solid #fff;
 	height:50px;
-	background: #000; 
+	background: #000;
 	padding: 0;
 	margin: 0 auto;
 }
@@ -388,8 +373,8 @@ em { color: #bf4300; }
 
 #Slide {
 	width:1536px;
-	padding: 0;
 	margin: 0 auto;
+
 
 	}
 	* {box-sizing:border-box}
@@ -465,13 +450,21 @@ em { color: #bf4300; }
   from {opacity: .4} 
   to {opacity: 1}
 }
+#gioithieu {
+	font-family: BlinkMacSystemFont;
+	text-align:center;
+    color:#1abc9c;
 
-#banner{
-	background:
-	height:100px;
-	float:right;
 	}
+#sub{
+ display: none;
+ color: #ffffff;
+
+}
+
+li:hover #sub{
+    display: block;
+}
+
 /* end of footer */
-
-
 
