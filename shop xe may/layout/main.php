@@ -1,24 +1,24 @@
 
  </div>	  
-</div> <!-- end of header_wrapper -->
+</div>
 
 <div id="Slide">
 <div class="slideshow-container">
   <div class="mySlides fade">
     
-    <img src="images/zero-s-2009-moto.jpeg" style="height:400px; width:1536px">
+    <img src="images/zero-s-2009-moto.jpeg" style="width: 100%;" >
     
   </div>
 
   <div class="mySlides fade">
     
-    <img src="images/xeee1.jpg" style="height:400px; width:1536px">
+    <img src="images/xeee1.jpg" style="width: 100%; " >
     
   </div>
 
   <div class="mySlides fade">
     
-    <img src="images/io.jpg" style="height:400px; width:1536px">
+    <img src="images/io.jpg" style="width: 100%;" >
     
   </div>
 </div>
