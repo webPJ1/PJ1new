@@ -1,21 +1,24 @@
 <div class="cleaner_h10"></div>
         
-        <div id="BHT_menu">
-        	
-            <div id="home_menu"><a href="trangchu.html"></a></div>
-                
-            <ul>
-                <li><a href="index.php">Trang chủ</a></li>
-                <li><a href="gioithieu.php">Giới thiệu</a></li>
-                <li><a href="tintuc.php">Tin tức</a></li>
-                <li><a href="sanpham.php">Sản phẩm</a></li>
-                <li><a href="lienhe.php">Liên Hệ</a></li>
-                <li id="A123" >
-            <div>
-                <img src="images/510n1ix6FHL.png" style="height:20px" />
-                <input type="text" placeholder="Tìm kiếm"  value=""/>
-                </div>
-          </li>
-            </ul>    	
-        
-        </div> <!-- end of tooplate_menu -->
+        <div id="menu">
+  <ul>
+    <li><a href="index.php">Trang chủ</a></li>
+    <li><a href="gioithieu.php">Giới thiệu</a></li>
+    <li><a href="tintuc.php">Tin tức</a></li>
+    <li><a href="sanpham.php">Sản phẩm</a>
+    <ul class="sub-menu">
+        <li><a href="#">Yamaha</a></li>
+        <li><a href="#">Honda</a></li>
+        <li><a href="#">Suzuki</a></li>
+      </ul></li>
+    <li><a href="lienhe.php">Liên hệ</a></li>
+    <li id="wrap">
+  <form action="" autocomplete="on">
+  <input id="search" name="search" type="text" placeholder="Tìm kiếm"><input id="search_submit" value="Rechercher" type="submit">
+  </form>
+</li>
+  </ul>
+
+  </div>
+  
+
